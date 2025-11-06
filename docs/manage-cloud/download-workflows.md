@@ -1,4 +1,4 @@
----
+---https://docs.n8n.io/manage-cloud/download-workflows/
 title: Download workflows
 description: How to download workflows from n8n Cloud with the admin dashboard.
 contentType: howto
